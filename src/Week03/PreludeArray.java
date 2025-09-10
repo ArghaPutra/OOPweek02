@@ -10,7 +10,7 @@ public class PreludeArray {
 		int[] numbers = { 1, 2, 3, 4, 5 };
 
 		printArray(numbers);
-		numbers = setArray();
+		numbers  = setArray();
 		printArray(numbers);
 	}
 
